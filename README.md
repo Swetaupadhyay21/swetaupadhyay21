@@ -1,4 +1,4 @@
-### Hi  👋 This is Sweta Upadhyay
+<h1 align="center">Hi 👋, This is Sweta Upadhyay/h1>
 
 
 
